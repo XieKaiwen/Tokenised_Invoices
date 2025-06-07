@@ -1,0 +1,11 @@
+{
+  "invoiceId": "",
+  "issuerName": "",
+  "tokenName": "",
+  "issuePrice": null,
+  "amountDue": null,
+  "maturityDate": "",
+  "quantity": 1,
+  "timestamp": "2025-06-07T16:17:45.541Z",
+  "tokenId": "inv__1749313065541"
+}
